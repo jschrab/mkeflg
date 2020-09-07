@@ -7,6 +7,8 @@
 ;
 ; Kernel pattern and many tips from:
 ; https://www.randomterrain.com/atari-2600-memories-tutorial-andrew-davie-01.html
+; 
+; JDS - 18-Jan-2020
 ;==============================================================================
 ; Top half of flag "Orange" is #FFA500
 ; 2600 NTSC $2A = #FF8900
