@@ -1,0 +1,3 @@
+#!/bin/bash
+
+dasm mkeflg.asm -lmkeflg.txt -f3 -v5 -omkeflg.bin
